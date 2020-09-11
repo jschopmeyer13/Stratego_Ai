@@ -1,6 +1,5 @@
 # Stratego_AI
-in-progress
-
+NOTE: In-progress
 
 # Dependencies
 For Stratego Game Functionality
